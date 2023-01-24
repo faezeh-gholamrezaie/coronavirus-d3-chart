@@ -1,0 +1,382 @@
+{
+  "persons":[
+   {
+      "name":"Donald J. Trump",
+      "type":"President",
+      "x":698,
+      "y":551,
+      "label":{
+         "x":699,
+         "y":583
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Melania Trump",
+      "type":"First lady",
+      "x":560,
+      "y":435,
+      "label":{
+         "x":562,
+         "y":468
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Mike Pence",
+      "type":"Vice president",
+      "x":195,
+      "y":1040,
+      "label":{
+         "x":188,
+         "y":1073
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Karen Pence",
+      "type":"Second lady",
+      "x":218,
+      "y":926,
+      "label":{
+         "x":139,
+         "y":927
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Ivanka Trump",
+      "type":"President's daughter and senior adviser",
+      "x":832,
+      "y":560,
+      "label":{
+         "x":834,
+         "y":592
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Jared Kushner",
+      "type":"President son-in-law and senior adviser",
+      "x":668,
+      "y":1112,
+      "label":{
+         "x":682,
+         "y":1144
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Amy Coney Barrett",
+      "type":"Supreme Court nominee",
+      "x":808,
+      "y":755,
+      "label":{
+         "x":883,
+         "y":757
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Hope Hicks",
+      "type":"Adviser to the president",
+      "x":730,
+      "y":689,
+      "label":{
+         "x":731,
+         "y":658
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Stephen Miller",
+      "type":"Policy adviser",
+      "x":234,
+      "y":833,
+      "label":{
+         "x":141,
+         "y":832
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Nicholas Luna",
+      "type":"Assistant to the president",
+      "x":526,
+      "y":661,
+      "label":{
+         "x":524,
+         "y":693
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Kayleigh McEnany",
+      "type":"Press secretary",
+      "x":614,
+      "y":1112,
+      "label":{
+         "x":602,
+         "y":1144
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Karoline Leavitt",
+      "type":"Assistant press secretary",
+      "x":183,
+      "y":600,
+      "label":{
+         "x":154,
+         "y":565
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Chad Gilmartin",
+      "type":"Assistant press secretary",
+      "x":651,
+      "y":665,
+      "label":{
+         "x":641,
+         "y":699
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Mike Lee",
+      "type":"Senator of Utah",
+      "x":266,
+      "y":1279,
+      "label":{
+         "x":268,
+         "y":1247
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Thom Tillis",
+      "type":"Senator of North Carolina",
+      "x":774,
+      "y":690,
+      "label":{
+         "x":848,
+         "y":680
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   },
+   {
+      "name":"Charles W. Ray",
+      "type":"U.S. Coast Guard admiral",
+      "x":520,
+      "y":1329,
+      "label":{
+         "x":520,
+         "y":1363
+      },
+      "nominations":[
+         {
+            "name":"atlanta-campaign-event",
+            "movie":0,
+            "year":"2020-09-25,3:00 p.m."
+         }
+      ]
+   }
+],
+  "movies":[
+   {
+      "name":"atlanta-campaign-event",
+      "year":"2020-09-25,3:00 p.m.",
+      "x":811,
+      "y":287,
+      "links":[
+         {
+            "person":0,
+            "role":"President",
+            "x":698,
+            "y":551
+         },
+         {
+            "person":1,
+            "role":"First lady",
+            "x":560,
+            "y":435
+         },
+         {
+            "person":2,
+            "role":"Vice president",
+            "x":195,
+            "y":1040
+         },
+         {
+            "person":3,
+            "role":"Second lady",
+            "x":218,
+            "y":926
+         },
+         {
+            "person":4,
+            "role":"President's daughter and senior adviser",
+            "x":832,
+            "y":560
+         },
+         {
+            "person":5,
+            "role":"President son-in-law and senior adviser",
+            "x":668,
+            "y":1112
+         },
+         {
+            "person":6,
+            "role":"Supreme Court nominee",
+            "x":808,
+            "y":755
+         },
+         {
+            "person":7,
+            "role":"Adviser to the president",
+            "x":730,
+            "y":689
+         },
+         {
+            "person":8,
+            "role":"Policy adviser",
+            "x":234,
+            "y":833
+         },
+         {
+            "person":9,
+            "role":"Assistant to the president",
+            "x":526,
+            "y":661
+         },
+         {
+            "person":10,
+            "role":"Press secretary",
+            "x":614,
+            "y":1112
+         },
+         {
+            "person":11,
+            "role":"Assistant press secretary",
+            "x":183,
+            "y":600
+         },
+         {
+            "person":12,
+            "role":"Assistant press secretary",
+            "x":651,
+            "y":665
+         },
+         {
+            "person":13,
+            "role":"Senator of Utah",
+            "x":266,
+            "y":1279
+         },
+         {
+            "person":14,
+            "role":"Senator of North Carolina",
+            "x":774,
+            "y":690
+         },
+         {
+            "person":15,
+            "role":"U.S. Coast Guard admiral",
+            "x":520,
+            "y":1329
+         }
+      ]
+   }
+]
+}
