@@ -1,6 +1,6 @@
 # coronavirus-d3-chart
 Corona D3 chart- White House Coronavirus Outbreak Tracking
-
+![screenshot of the dashboard](image.png)
 The Corona D3 chart is an open-source project for tracking the coronavirus outbreak in the United States, specifically focusing on data related to the White House. The chart is built using the D3.js library and is designed to provide a clear and easy-to-use visualization of the outbreak data.
 **Features**
 
