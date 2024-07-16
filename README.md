@@ -24,3 +24,7 @@ This project is open-source and welcomes contributions from the community. If yo
 Please note that the data provided on this chart is for informational purposes only and is not intended to be used for medical or clinical purposes. Always consult a healthcare professional for any medical advice.
 
 This project is developed and maintained by a group of data enthusiasts and developers who are passionate about using data to understand and track the coronavirus outbreak. We hope that this tool can help people stay informed and make data-driven decisions.
+
+# Resources:
+
+https://www.nytimes.com/interactive/2020/10/02/us/politics/trump-contact-tracing-covid.html
